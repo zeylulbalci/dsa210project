@@ -3,9 +3,11 @@
 The Impact of Social Media on Movie Popularity
 
 Abstract
+
 For this project, I’m going to look into how social media activity impacts the success of a movie. People express their thoughts online, view trailers on YouTube, and discuss movies on Twitter. I want to know if this interaction increases the amount of money that movies earn at the box office. I will use data from YouTube and Twitter in addition to Box Office Revenue data to do this. My objective will be determining whether social media activity can forecast a film’s box office performance and helps studios’ to enhance their marketing plans.
 
 1.Introduction
+
 Movie advertisement has developed as a result of social media. Studios used to rely on magazine articles, posters, and TV commercials. These days, Twitter and YouTube are important marketing tools. People comment on trailers, use hashtags, and tweet about movies. But does a movie really make more money with all this internet activity?
 
 In this study, I'll investigate the relationship between box office income and Twitter and YouTube activity. I'll look for answers to some of the following questions: Do YouTube trailer views, likes, and comments predict box office success? Do films with more Twitter mentions earn more money?
