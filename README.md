@@ -1,42 +1,23 @@
-# dsa210project
+1. Abstract
+   
+In this project, I aim to explore the relationship between online popularity and a movie’s commercial success. I will specifically focus on two major platforms — YouTube and IMDb — to see if the data available on these sites can help predict how well a film performs at the box office. I believe that analyzing user interaction with trailers on YouTube, along with audience ratings and vote counts on IMDb, can offer insights into a movie’s popularity and financial outcome. The results of this project may help understand how online engagement translates into real-world performance.
 
-The Impact of Social Media on Movie Popularity
+3. Introduction
+   
+With the rise of digital platforms, the way movies are promoted and received by audiences has changed significantly. Today, people discover and discuss movies online — especially through platforms like YouTube, where trailers are published, and IMDb, where viewers rate and review films. In this project, I want to investigate whether YouTube trailer metrics such as views, likes, and comments, along with IMDb ratings and vote counts, can be used to estimate how successful a film will be financially. My main goal is to understand whether these forms of online interaction reflect or even influence box office performance.
 
-Abstract
+5. Data Collection and Preparation
+   
+To conduct this study, I will collect data from three main sources. First, I will use the YouTube API to gather information on trailer engagement for each movie, including the number of views, likes, and comments. Second, I will use IMDb’s official datasets to obtain average ratings and the number of votes per film. Third, I will include a box office dataset that provides the gross revenue for a wide selection of films. After collecting all the data, I will clean and merge these datasets based on movie titles and release years. I will also convert number formats, remove inconsistencies, and standardize the data to prepare it for analysis. Although I initially considered including Twitter sentiment analysis, I decided to exclude it due to technical limitations in data access.
 
-For this project, I’m going to look into how social media activity impacts the success of a movie. People express their thoughts online, view trailers on YouTube, and discuss movies on Twitter. I want to know if this interaction increases the amount of money that movies earn at the box office. I will use data from YouTube and Twitter in addition to Box Office Revenue data to do this. My objective will be determining whether social media activity can forecast a film’s box office performance and helps studios’ to enhance their marketing plans.
+7. Methodology
+   
+Once I have a clean and complete dataset, I will begin by performing exploratory data analysis (EDA). I will use correlation analysis to see how strongly each variable — such as IMDb rating, number of votes, YouTube views, likes, and comments — is related to box office gross. I plan to create visualizations such as scatter plots and heatmaps to better understand the patterns in the data. I will also use histograms to observe how IMDb ratings are distributed across the sample. All analysis will be conducted using Python, with libraries like pandas, matplotlib, and seaborn. This approach will help me evaluate whether online engagement metrics are meaningful predictors of financial success.
 
-1.Introduction
+9. Limitations and Future Work
+    
+There are some limitations to this project that I am aware of. First, I will not be able to include Twitter data or sentiment analysis, which could have added another layer of understanding. Also, box office revenue is influenced by many external factors that are not present in my dataset — such as marketing budgets, franchise popularity, seasonal trends, and global distribution. Additionally, IMDb ratings might not always be objective due to things like early fan enthusiasm or coordinated rating campaigns. In the future, I could improve this project by including data from other platforms like TikTok and Instagram, or by tracking audience engagement over time using time-series analysis.
 
-Movie advertisement has developed as a result of social media. Studios used to rely on magazine articles, posters, and TV commercials. These days, Twitter and YouTube are important marketing tools. People comment on trailers, use hashtags, and tweet about movies. But does a movie really make more money with all this internet activity?
-
-In this study, I'll investigate the relationship between box office income and Twitter and YouTube activity. I'll look for answers to some of the following questions: Do YouTube trailer views, likes, and comments predict box office success? Do films with more Twitter mentions earn more money?
-
-2.Data Collection and Preparation 
-
-I will gather and compile information from many sources in order to complete this assignment. The Box Office Revenue Dataset, which contains details about films, their release dates, genres, budgets, and earnings, will be my primary dataset.
-
-I will gather information from YouTube and Twitter in order to assess social media activity. These will be used to determine how many tweets there are about each film, what hashtags are used, and whether the tweets are positive or negative. Sentiment analysis will assist me in understanding the opinions people have on a film.
-
-I'll gather information on YouTube's trailer views, likes, and comments. In order to determine whether the audience's response is mainly good or negative, I will also examine YouTube comments. After gathering all of this data, I'll clean it up by eliminating duplicates, dealing with missing numbers, and ensuring that everything is formatted correctly.
-
-3.Methodology
-
-In order to identify patterns in the data, I will first conduct exploratory data analysis. I'll make visualizations such as heatmaps and scatter plots to show how social media activity and box office receipts are related. I'll then use statistical analyses to measure the strength of these connections. To determine whether more social media use relates with higher income, I will be using correlation tests. The accuracy of my models will then be assessed using the Mean Absolute Error (MAE) and R2 score.
-
-4.Results and Discussions
-
-I assume that after data analysis, films with more active YouTube and Twitter profiles do better at the box office. I think films with more positive comments and tweets will make more money. Additionally, I expect that successful films will be associated with trailers that receive more views, likes, and good comments on YouTube.
-
-I'll also investigate if social media reflects the excitement already present or if it has a direct impact on the box office. For instance, is a movie more popular because of the social media hype or because people tweet about it more because they are already interested in it? 
-
-5.Limitations
-
-There are several restrictions on this project. First, not all movie-related tweets are helpful. Some may be jokes or spam that have no effect on a film's overall popularity. Additionally, I will just use data from Twitter and YouTube, even though Instagram and TikTok are also quite important for movie promotion. In the future, I might add these platforms to my dataset to complete the analysis.
-
-Showing that social networking actually boosts movie grosses is another difficulty. It is not always the case that one directly influences the other, even if I find a major correlation. Future studies should investigate whether early social media engagement predicts next box office performance and how social media engagement changes over time. Considering these difficulties, I think this study will offer valuable insights about how social media affects the film business.
-
-6.Conclusion
-
-Although social media has developed into an effective marketing tool, its precise effect on the box office is still unclear. In this study, I'll examine the connection between movie success and Twitter and YouTube contribution. I expect to find a correlation between increased social media involvement and higher box office earnings.Film studios may enhance their marketing tactics and bring in more viewers by being aware of these trends. To fully examine social media's impact on the entertainment sector, additional research will be required as it develops.
-
+11. Conclusion
+    
+Through this project, I aim to understand whether online interactions — particularly those on YouTube and IMDb — are connected to how well a film performs at the box office. I expect to find that films with more YouTube engagement and stronger IMDb presence will tend to earn more revenue. Although these platforms do not tell the whole story, I believe they provide valuable signals about public interest. By the end of this study, I hope to show that online data can be used as part of a larger strategy to anticipate the financial performance of films and make more informed marketing or production decisions.
