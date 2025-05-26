@@ -1,4 +1,4 @@
-1. Abstract
+#1. Abstract
    
 In this project, I aim to explore the relationship between online popularity and a movie’s commercial success. I will specifically focus on two major platforms — YouTube and IMDb — to see if the data available on these sites can help predict how well a film performs at the box office. I believe that analyzing user interaction with trailers on YouTube, along with audience ratings and vote counts on IMDb, can offer insights into a movie’s popularity and financial outcome. The results of this project may help understand how online engagement translates into real-world performance.
 
