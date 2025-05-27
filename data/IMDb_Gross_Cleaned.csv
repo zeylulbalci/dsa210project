@@ -1,0 +1,413 @@
+Unnamed: 0,Year,Movie,Video_ID,Views,Likes,Comments,IMDb_Rating,numVotes,key,Gross,clean_title
+0,2023.0,Barbie,pBk4NYhWNMM,88455374.0,904310.0,37341.0,6.8,605130.0,barbie,1445638421.0,barbie
+1,2023.0,The Super Mario Bros. Movie,TnGl01FkMMo,33790399.0,285229.0,0.0,7.0,267191.0,the super mario bros movie,1362034072.0,the super mario bros movie
+2,2023.0,Oppenheimer,uYPbbksJxIg,73045214.0,829634.0,33806.0,8.3,883245.0,oppenheimer,972444774.0,oppenheimer
+3,2023.0,Guardians of the Galaxy Vol. 3,u3V5KDHRQvk,35295118.0,801265.0,39051.0,7.9,426095.0,guardians of the galaxy vol 3,845555777.0,guardians of the galaxy vol 3
+4,2023.0,Fast X,32RAq6JzY-w,42357594.0,400001.0,31469.0,5.7,134568.0,fast x,704875015.0,fast x
+5,2023.0,Spider-Man: Across the Spider-Verse,cqGjhVJWtEg,37545479.0,915509.0,27945.0,8.5,451124.0,spiderman across the spiderverse,690615475.0,spiderman across the spiderverse
+6,2023.0,Wonka,otNh9bTjXWg,46650672.0,486998.0,30194.0,7.0,176049.0,wonka,632302312.0,wonka
+7,2023.0,The Little Mermaid,kpGo2_d3oYE,27786523.0,375357.0,78212.0,3.2,183.0,the little mermaid,569626289.0,the little mermaid
+8,2023.0,The Little Mermaid,kpGo2_d3oYE,27786523.0,375357.0,78212.0,7.2,171479.0,the little mermaid,569626289.0,the little mermaid
+9,2023.0,Mission: Impossible - Dead Reckoning Part One,avz06PDqDbM,31903038.0,338395.0,15860.0,7.6,284141.0,mission impossible  dead reckoning part one,567535383.0,mission impossible  dead reckoning part one
+10,2023.0,Elemental,hXzcyx9V0xw,49800201.0,232867.0,12349.0,7.0,149548.0,elemental,496444308.0,elemental
+11,2023.0,Ant-Man and the Wasp: Quantumania,ZlNFpri-Y40,34798992.0,1014940.0,40156.0,6.0,249573.0,antman and the wasp quantumania,476071180.0,antman and the wasp quantumania
+12,2023.0,John Wick: Chapter 4,qEVUtrk8_B4,52028301.0,732489.0,29600.0,7.6,375258.0,john wick chapter 4,440157245.0,john wick chapter 4
+13,2023.0,Transformers: Rise of the Beasts,itnqEauWQZM,35742600.0,426726.0,27985.0,6.0,121229.0,transformers rise of the beasts,438966392.0,transformers rise of the beasts
+14,2023.0,Aquaman and the Lost Kingdom,UGc5Tzz19UY,6790240.0,46064.0,3338.0,5.6,106056.0,aquaman and the lost kingdom,434381226.0,aquaman and the lost kingdom
+15,2023.0,Meg 2: The Trench,dG91B3hHyY4,48780639.0,318582.0,20353.0,5.0,92238.0,meg 2 the trench,397700317.0,meg 2 the trench
+16,2023.0,Indiana Jones and the Dial of Destiny,eQfMbSe7F2g,17510100.0,0.0,18991.0,6.5,219054.0,indiana jones and the dial of destiny,383963057.0,indiana jones and the dial of destiny
+17,2023.0,The Hunger Games: The Ballad of Songbirds & Snakes,RDE6Uz73A7g,25614308.0,221535.0,15487.0,6.7,159440.0,the hunger games the ballad of songbirds  snakes,337371917.0,the hunger games the ballad of songbirds  snakes
+18,2023.0,Migration,cQfo0HJhCnE,24734627.0,61549.0,0.0,6.6,39933.0,migration,297404638.0,migration
+19,2023.0,Five Nights at Freddy's,0VH9WCFV6XQ,44759028.0,878170.0,64060.0,5.4,111859.0,five nights at freddys,291493620.0,five nights at freddys
+20,2023.0,Creed III,AHmCH7iB_IM,19427808.0,200759.0,10866.0,6.7,100072.0,creed iii,276148615.0,creed iii
+21,2023.0,The Flash,hebWYacbdvc,21949292.0,274623.0,23127.0,6.6,231951.0,the flash,271333313.0,the flash
+22,2023.0,The Nun II,QF-oyCwaArU,47688339.0,405151.0,14740.0,5.6,69932.0,the nun ii,269467073.0,the nun ii
+23,2023.0,Taylor Swift: The Eras Tour,KudedLV0tP0,15061097.0,437822.0,20535.0,8.0,24134.0,taylor swift the eras tour,261656269.0,taylor swift the eras tour
+24,2023.0,Wish,oyRxxpD3yNw,15546539.0,82365.0,14850.0,5.6,46614.0,wish,254971753.0,wish
+25,2023.0,Wish,oyRxxpD3yNw,15546539.0,82365.0,14850.0,,,wish,254971753.0,wish
+26,2023.0,Sound of Freedom,Rt0kp4VW1cI,10969638.0,141533.0,7859.0,7.6,130322.0,sound of freedom,250570396.0,sound of freedom
+27,2023.0,Napoleon,OAZWXUkrjPc,37925356.0,373231.0,33858.0,6.3,172387.0,napoleon,221039523.0,napoleon
+28,2023.0,Anyone But You,ESEc6W2h9_k,12573917.0,24129.0,1245.0,6.1,144546.0,anyone but you,219418334.0,anyone but you
+29,2023.0,Trolls Band Together,qZ40Z62tcXM,11114550.0,29125.0,0.0,6.0,18017.0,trolls band together,209314496.0,trolls band together
+30,2023.0,Dungeons & Dragons: Honor Among Thieves,IiMinixSXII,25190915.0,186569.0,13671.0,7.2,258938.0,dungeons  dragons honor among thieves,208177026.0,dungeons  dragons honor among thieves
+31,2023.0,The Marvels,wS_qbDztgVY,25950721.0,293432.0,34165.0,5.5,147692.0,the marvels,206136557.0,the marvels
+32,2023.0,PAW Patrol: The Mighty Movie,UDgjJ9XzgHk,10589682.0,33519.0,0.0,5.9,5907.0,paw patrol the mighty movie,202231360.0,paw patrol the mighty movie
+33,2023.0,The Equalizer 3,19ikl8vy4zs,18973331.0,187725.0,14328.0,6.8,144236.0,the equalizer 3,191067560.0,the equalizer 3
+34,2023.0,Insidious: The Red Door,ZuQuOnYnr3Q,26941376.0,154563.0,5512.0,5.5,57909.0,insidious the red door,189086877.0,insidious the red door
+35,2023.0,Teenage Mutant Ninja Turtles: Mutant Mayhem,IHvzw4Ibuho,17815392.0,99841.0,8114.0,7.2,72969.0,teenage mutant ninja turtles mutant mayhem,180513586.0,teenage mutant ninja turtles mutant mayhem
+36,2023.0,The Boy and the Heron,t5khm-VjEu4,19583666.0,105507.0,3374.0,7.4,94462.0,the boy and the heron,173407313.0,the boy and the heron
+37,2023.0,Scream VI,h74AXqw4Opc,22145425.0,176470.0,15483.0,6.4,137279.0,scream vi,168961389.0,scream vi
+38,2023.0,Killers of the Flower Moon,7cx9nCHsemc,19508763.0,68138.0,4788.0,7.6,280684.0,killers of the flower moon,157026901.0,killers of the flower moon
+39,2023.0,Evil Dead Rise,smTK_AeAPHs,26487143.0,258206.0,11570.0,6.5,155172.0,evil dead rise,147033054.0,evil dead rise
+40,2023.0,The Exorcist: Believer,PIxpPMyGcpU,32196434.0,112403.0,13595.0,4.8,46412.0,the exorcist believer,136284218.0,the exorcist believer
+41,2023.0,Shazam! Fury of the Gods,Zi88i4CpHe4,21291513.0,225850.0,10857.0,5.9,136866.0,shazam fury of the gods,134038006.0,shazam fury of the gods
+42,2023.0,Blue Beetle,vS3_72Gb-bI,31729525.0,514441.0,30862.0,5.9,108006.0,blue beetle,130788072.0,blue beetle
+43,2023.0,A Haunting in Venice,yEddsSwweyE,7751513.0,48140.0,2217.0,6.5,130983.0,a haunting in venice,122290456.0,a haunting in venice
+44,2023.0,Gran Turismo,GVPzGBvPrzw,19996901.0,203522.0,11000.0,7.1,120008.0,gran turismo,122101055.0,gran turismo
+45,2023.0,Haunted Mansion,AjLKTz81bj8,6406729.0,31512.0,2289.0,6.0,47281.0,haunted mansion,117449790.0,haunted mansion
+46,2023.0,Poor Things,_klfx5sGzFk,1187996.0,3638.0,235.0,7.8,339506.0,poor things,117403988.0,poor things
+47,2023.0,Godzilla Minus One,nAYKaslCXPc,2331765.0,35259.0,2719.0,7.7,169313.0,godzilla minus one,115857413.0,godzilla minus one
+48,2023.0,Pathaan,vqu4z34wENw,104179067.0,2455233.0,198199.0,5.8,160632.0,pathaan,112583450.0,pathaan
+49,2023.0,Saw X,t3PzUo4P21c,39333347.0,175484.0,15399.0,6.6,89114.0,saw x,111823047.0,saw x
+50,2023.0,Detective Conan: Black Iron Submarine,0rNpSmVmN2U,294744.0,2682.0,268.0,7.1,2488.0,detective conan black iron submarine,106771806.0,detective conan black iron submarine
+51,2023.0,The Creator,ex3C1-5Dhb8,16951714.0,118835.0,8956.0,6.7,185067.0,the creator,104272136.0,the creator
+52,2023.0,12.12: The Day,H_zrVAVlZw0,110415.0,587.0,164.0,7.6,4176.0,1212 the day,97476565.0,1212 the day
+53,2023.0,Animal,8FkLRUJj-o0,112878768.0,1899425.0,72300.0,6.1,105795.0,animal,92870227.0,animal
+54,2023.0,Animal,8FkLRUJj-o0,112878768.0,1899425.0,72300.0,6.6,852.0,animal,92870227.0,animal
+55,2023.0,Talk to Me,aLAKJu9aJys,21233286.0,126972.0,6744.0,6.5,82.0,talk to me,92181735.0,talk to me
+56,2023.0,Air,Euy4Yu6B3nU,14459115.0,44277.0,2796.0,7.4,183348.0,air,90060106.0,air
+57,2023.0,Air,Euy4Yu6B3nU,14459115.0,44277.0,2796.0,7.4,183348.0,air,5468936.0,air
+58,2023.0,Air,Euy4Yu6B3nU,14459115.0,44277.0,2796.0,5.3,444.0,air,90060106.0,air
+59,2023.0,Air,Euy4Yu6B3nU,14459115.0,44277.0,2796.0,5.3,444.0,air,5468936.0,air
+60,2023.0,Cocaine Bear,DuWEEKeJLMI,26043937.0,147847.0,12657.0,5.9,119672.0,cocaine bear,88314672.0,cocaine bear
+61,2023.0,No Hard Feelings,P15S6ND8kbQ,24857186.0,113135.0,5367.0,6.3,195622.0,no hard feelings,87256407.0,no hard feelings
+62,2023.0,The Roundup: No Way Out,PmqABHW0qfc,109990.0,277.0,9.0,6.6,7336.0,the roundup no way out,83410298.0,the roundup no way out
+63,2023.0,The Pope's Exorcist,YJXqvnT_rsk,23748459.0,116191.0,7409.0,6.1,96066.0,the popes exorcist,76987621.0,the popes exorcist
+64,2023.0,Plane,M25zXBIUVr0,32117571.0,43287.0,3351.0,6.5,92151.0,plane,74515586.0,plane
+65,2023.0,Titanic 25 Year Anniversary,I7c1etV7D7g,3226709.0,24558.0,1382.0,,,titanic 25 year anniversary,70157472.0,titanic 25 year anniversary
+66,2023.0,The Color Purple,wPwzBUui1GA,11241171.0,52444.0,5767.0,6.8,19102.0,the color purple,67519191.0,the color purple
+67,2023.0,The Boogeyman,cFqCmIU0-_M,10738640.0,81485.0,4950.0,5.9,49605.0,the boogeyman,67307243.0,the boogeyman
+68,2023.0,Frozen 2023 Re-release (Sing -A-Long),xJgAypHXCZo,2844707.0,16842.0,970.0,,,frozen 2023 rerelease sing along,62846398.0,frozen 2023 rerelease sing along
+69,2023.0,65,bHXejJq5vr0,30311431.0,287420.0,21054.0,5.4,99720.0,65,60730568.0,65
+70,2023.0,Spy x Family Code: White,m5TxWbtQ7qU,1614916.0,26092.0,945.0,7.3,6908.0,spy x family code white,57830917.0,spy x family code white
+71,2023.0,Magic Mike's Last Dance,pBIGdw-BRxw,12374988.0,29067.0,1700.0,5.2,18853.0,magic mikes last dance,57105156.0,magic mikes last dance
+72,2023.0,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,U9Br9QWyq9s,571552.0,8308.0,248.0,7.6,14131.0,demon slayer kimetsu no yaiba  to the swordsmith village,56319794.0,demon slayer kimetsu no yaiba  to the swordsmith village
+73,2023.0,The Boys in the Boat,dfEA-udzjjQ,11510501.0,14492.0,975.0,7.0,27666.0,the boys in the boat,55439737.0,the boys in the boat
+74,2023.0,Knock at the Cabin,0wiBHEACNHs,26747313.0,41370.0,7404.0,6.1,133705.0,knock at the cabin,54760947.0,knock at the cabin
+75,2023.0,Mummies,WRB8YIc4U68,1493525.0,7938.0,0.0,5.9,9951.0,mummies,54475970.0,mummies
+76,2023.0,Jesus Revolution,8vmHFvnjPDw,32640878.0,46067.0,3833.0,7.1,15600.0,jesus revolution,54295801.0,jesus revolution
+77,2023.0,Asteroid City,9FXCSXuGTF4,19528128.0,55146.0,3130.0,6.4,131112.0,asteroid city,53857743.0,asteroid city
+78,2023.0,One Life,9hpuRzZn0Yc,205583.0,1417.0,119.0,7.5,34065.0,one life,51155555.0,one life
+79,2023.0,Operation Fortune: Ruse de Guerre,WdZ-BWWQcWQ,22428306.0,62249.0,1793.0,6.3,100160.0,operation fortune ruse de guerre,48983306.0,operation fortune ruse de guerre
+80,2023.0,Missing,seBixtcx19E,17677295.0,36418.0,2204.0,7.1,67315.0,missing,48767848.0,missing
+81,2023.0,The Zone of Interest,r-vfg3KkV54,6365139.0,30308.0,2423.0,7.3,133090.0,the zone of interest,48575395.0,the zone of interest
+82,2023.0,Thanksgiving,KbU50SdL8zA,25860269.0,79255.0,5539.0,6.2,70867.0,thanksgiving,46553280.0,thanksgiving
+83,2023.0,Asterix & Obelix: The Middle Kingdom,9PLl0qJjDrQ,1240459.0,13775.0,848.0,5.1,12032.0,asterix  obelix the middle kingdom,46497678.0,asterix  obelix the middle kingdom
+84,2023.0,Ruby Gillman: Teenage Kraken,iAMKwDsfUeU,11196626.0,43053.0,0.0,5.7,12854.0,ruby gillman teenage kraken,45528749.0,ruby gillman teenage kraken
+85,2023.0,There's Still Tomorrow,nNREdtrrQyk,152525.0,631.0,105.0,7.7,15722.0,theres still tomorrow,45344182.0,theres still tomorrow
+86,2023.0,The Iron Claw,8KVsaoveTbw,22397603.0,134578.0,9597.0,7.6,103997.0,the iron claw,45128828.0,the iron claw
+87,2023.0,The Holdovers,AhKLpJmHhIg,19550289.0,23562.0,1529.0,7.9,198616.0,the holdovers,44637335.0,the holdovers
+88,2023.0,Renaissance: A Film by Beyoncé,BGYIXarTNbA,2127353.0,71070.0,3385.0,8.6,3670.0,renaissance a film by beyoncé,43989684.0,renaissance a film by beyoncé
+89,2023.0,Son of a Rich 2,GILEsWzwozc,92238.0,1000.0,169.0,,,son of a rich 2,42665291.0,son of a rich 2
+90,2023.0,Ferrari,wOX91Hqlcx0,435897.0,2317.0,177.0,6.4,62184.0,ferrari,42285029.0,ferrari
+91,2023.0,Past Lives,kA244xewjcI,10430573.0,153524.0,4707.0,7.8,150770.0,past lives,41922628.0,past lives
+92,2023.0,80 for Brady,-UeGXB2NjR8,3061929.0,11870.0,1458.0,5.9,13255.0,80 for brady,40362938.0,80 for brady
+93,,,,,,,,,,,nan
+94,2023.0,My Big Fat Greek Wedding 3,AAflXqZ5xs0,7733354.0,14858.0,1295.0,5.2,11644.0,my big fat greek wedding 3,38831076.0,my big fat greek wedding 3
+95,2023.0,The Expendables 4,DhlaBO-SwVE,25669179.0,110151.0,9845.0,4.8,49638.0,the expendables 4,37917985.0,the expendables 4
+96,2023.0,Doraemon the Movie: Nobita's Sky Utopia,RNDYR00jE9k,81074.0,1022.0,0.0,6.7,1363.0,doraemon the movie nobitas sky utopia,37475850.0,doraemon the movie nobitas sky utopia
+97,2023.0,Smugglers,ruCpNQBGXe0,348273.0,661.0,17.0,6.3,1870.0,smugglers,36851831.0,smugglers
+98,2023.0,Kingdom 3,6zSB5_x1pSE,2097680.0,9867.0,875.0,,,kingdom 3,36259522.0,kingdom 3
+99,2023.0,Ride On,mPxHMZsZs-8,2036806.0,17337.0,554.0,6.3,6743.0,ride on,36258730.0,ride on
+100,2023.0,Strays,BzwOLKTbCUw,4580750.0,29642.0,2488.0,6.3,35210.0,strays,36071267.0,strays
+101,2023.0,Anatomy of a Fall,MJlpGZuE4R4,966193.0,3158.0,161.0,7.6,173802.0,anatomy of a fall,35575941.0,anatomy of a fall
+102,2023.0,Noryang: Deadly Sea,HPRkiVU39I4,594937.0,1845.0,135.0,6.3,1028.0,noryang deadly sea,34210966.0,noryang deadly sea
+103,2023.0,Alibi.com 2,4Ws_rUHEGQo,33113.0,63.0,1.0,6.5,3501.0,alibicom 2,34114308.0,alibicom 2
+104,2023.0,The Bremen Town Musicians,wyHYGXIeeXM,7948.0,118.0,0.0,,,the bremen town musicians,33162280.0,the bremen town musicians
+105,2023.0,Priscilla,DBWk6BohVXk,12915531.0,73218.0,5361.0,6.5,46924.0,priscilla,32958807.0,priscilla
+106,2023.0,Don't Call it Mystery: The Movie,ODYQ6phQXSI,12637.0,157.0,14.0,6.3,358.0,dont call it mystery the movie,32488540.0,dont call it mystery the movie
+107,2023.0,The Three Musketeers - Part I: D'Artagnan,sfbEwFerEmY,58888.0,211.0,11.0,6.7,24430.0,the three musketeers  part i dartagnan,31843086.0,the three musketeers  part i dartagnan
+108,2023.0,Tokyo MER,59dfRsL9LJs,1481906.0,10453.0,389.0,6.9,140.0,tokyo mer,30239900.0,tokyo mer
+109,2023.0,Interstellar 2023  Re-release,XZFIYEnAS4M,708564.0,4163.0,348.0,,,interstellar 2023  rerelease,30093495.0,interstellar 2023  rerelease
+110,2023.0,Concrete Utopia,57CJngvMoqg,711005.0,3977.0,200.0,6.6,8071.0,concrete utopia,30077348.0,concrete utopia
+111,2023.0,BTS: Yet to Come in Cinemas,u0kJfkDix4Y,2233300.0,341359.0,10000.0,8.6,1855.0,bts yet to come in cinemas,29291883.0,bts yet to come in cinemas
+112,2023.0,Book Club: The Next Chapter,i9k213d5FU0,6394154.0,5378.0,405.0,5.6,8669.0,book club the next chapter,29014500.0,book club the next chapter
+113,2023.0,I Wish I Could Meet You Again on the Hill Where That Flower Blooms (2023),77s4ZnQsAuk,5034.0,89.0,5.0,,,i wish i could meet you again on the hill where that flower blooms 2023,28933626.0,i wish i could meet you again on the hill where that flower blooms 2023
+114,2023.0,Jawan,MWOlnZSnXJo,5648611.0,81528.0,1674.0,6.9,104478.0,jawan,28499044.0,jawan
+115,2023.0,The Wish of the Fairy Fish,xHxULlwYHlY,17038.0,102.0,1.0,6.2,827.0,the wish of the fairy fish,28218581.0,the wish of the fairy fish
+116,2023.0,Toy Story 2023 Re-release,F8N0-ViM254,3226594.0,48685.0,0.0,,,toy story 2023 rerelease,27503758.0,toy story 2023 rerelease
+117,2023.0,Renfield,6LmO6rmDW08,48468893.0,81653.0,5823.0,6.4,111387.0,renfield,26493921.0,renfield
+118,2023.0,Gravity 2023 Re-release (10th Anniversary),d7re4psXPLk,6071203.0,0.0,5341.0,,,gravity 2023 rerelease 10th anniversary,24981634.0,gravity 2023 rerelease 10th anniversary
+119,2023.0,Perfect Days,QzZBbX5A1FA,1795251.0,24821.0,582.0,7.9,82044.0,perfect days,24486644.0,perfect days
+120,2023.0,Shin Jigen! Crayon Shin-chan the Movie,ZWJXRr4pHAM,122428.0,2596.0,0.0,6.6,724.0,shin jigen crayon shinchan the movie,23839864.0,shin jigen crayon shinchan the movie
+121,2023.0,The Challenge,P-BI53Hx7VY,119492.0,2299.0,606.0,6.7,2703.0,the challenge,23219519.0,the challenge
+122,2023.0,American Fiction,i0MbLCpYJPA,11584592.0,43219.0,2639.0,7.5,110294.0,american fiction,22483370.0,american fiction
+123,2023.0,The Last Voyage of the Demeter,gCeXJN8E6y0,1048004.0,9180.0,524.0,6.1,63323.0,the last voyage of the demeter,21786275.0,the last voyage of the demeter
+124,2023.0,The Three Musketeers - Part II: Milady,zzXPjLAWswQ,76341.0,168.0,14.0,6.4,10540.0,the three musketeers  part ii milady,21730766.0,the three musketeers  part ii milady
+125,2023.0,Guy Ritchie's the Covenant,02PPMPArNEQ,25612705.0,135659.0,6295.0,7.5,188496.0,guy ritchies the covenant,21632392.0,guy ritchies the covenant
+126,,,,,,,,,,,nan
+127,2023.0,Radical,L4DvL0UBZPQ,1926238.0,3412.0,216.0,7.8,6692.0,radical,21356027.0,radical
+128,2023.0,Saltburn,lALMdJf6UUE,16394288.0,62801.0,2083.0,7.0,243416.0,saltburn,21026167.0,saltburn
+129,2023.0,Dumb Money,bmr8YmwnZ3w,12399961.0,33777.0,2233.0,6.9,56300.0,dumb money,20703794.0,dumb money
+130,2023.0,All of Us Strangers,O97iSjvqBlY,3614911.0,41048.0,1903.0,7.6,70539.0,all of us strangers,19914757.0,all of us strangers
+131,2023.0,My Happy Marriage,omGVgPaFelg,427770.0,5297.0,284.0,6.9,1682.0,my happy marriage,19506407.0,my happy marriage
+132,2023.0,The House of No Man,_5pyvHUyzxw,987.0,21.0,0.0,6.1,569.0,the house of no man,19490980.0,the house of no man
+133,2023.0,Champions,8PdPTE1G_0U,654840.0,1973.0,162.0,6.8,32458.0,champions,19159065.0,champions
+134,2023.0,Retribution,jzQn0-WH4WM,13796374.0,39529.0,2995.0,5.3,25412.0,retribution,18685751.0,retribution
+135,2023.0,Next Goal Wins,pRH5u5lpArQ,5183772.0,18536.0,1208.0,6.5,28965.0,next goal wins,18648802.0,next goal wins
+136,2023.0,IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD,ZYQL35t7CQA,3277.0,87.0,0.0,7.4,26.0,idolish7 movie live 4bit  beyond the period,18638991.0,idolish7 movie live 4bit  beyond the period
+137,2023.0,Love Reset,vFseJg1WeMk,752916.0,9095.0,271.0,6.8,2458.0,love reset,18425272.0,love reset
+138,2023.0,The Blackening,ImM2EkqSFfU,894598.0,4829.0,738.0,,,the blackening,18169453.0,the blackening
+139,2023.0,About My Father,txLSE7tpgr0,22480826.0,12047.0,1056.0,5.7,15664.0,about my father,18167819.0,about my father
+140,2023.0,Mavka: The Forest Song,GXaMT5pX12w,4108338.0,55482.0,1115.0,6.6,6699.0,mavka the forest song,17897257.0,mavka the forest song
+141,2023.0,The Birth of Kitaro: Mystery of GeGeGe,hcKiMTNtWZY,102999.0,1419.0,69.0,7.2,519.0,the birth of kitaro mystery of gegege,17842454.0,the birth of kitaro mystery of gegege
+142,2023.0,The Blind,dE2wUVknVj8,1747817.0,12706.0,575.0,6.2,2516.0,the blind,17265487.0,the blind
+143,2023.0,Tokyo Revengers 2: Bloody Halloween - Destiny,mCJyYdwSYUk,92745.0,280.0,14.0,6.2,623.0,tokyo revengers 2 bloody halloween  destiny,17216567.0,tokyo revengers 2 bloody halloween  destiny
+144,2023.0,Hypnotic,N-qn4h-amyY,940464.0,4329.0,435.0,5.5,42120.0,hypnotic,16281937.0,hypnotic
+145,2023.0,The Legend & Butterfly,f-ppFCoO58M,95784.0,140.0,0.0,6.5,699.0,the legend  butterfly,16087771.0,the legend  butterfly
+146,2023.0,Die drei ??? - Erbe des Drachen,Fagpm_FWDLw,264522.0,1136.0,24.0,5.6,870.0,die drei   erbe des drachen,15860016.0,die drei   erbe des drachen
+147,2023.0,Shin Kamen Rider,WCSbh6nk4bs,639493.0,6527.0,309.0,6.1,3438.0,shin kamen rider,15835414.0,shin kamen rider
+148,2023.0,Joy Ride,jyI-AM5VXDo,4411630.0,39918.0,2379.0,6.4,27005.0,joy ride,15787674.0,joy ride
+149,2023.0,Dunki,Zd69FfhBmSc,2269076.0,23594.0,720.0,6.5,81327.0,dunki,15473051.0,dunki
+150,2023.0,Tonde Saitama: Biwako Yori Ai o Komete,usf1CFfD6TQ,17.0,4.0,0.0,6.1,145.0,tonde saitama biwako yori ai o komete,15107891.0,tonde saitama biwako yori ai o komete
+151,2023.0,Only 3 Days Left,S8bZua_hILI,8084.0,23.0,0.0,5.2,1357.0,only 3 days left,14985705.0,only 3 days left
+152,2023.0,Open Season,qo6Vbg4rB-w,2710.0,10.0,1.0,5.7,1060.0,open season,14961612.0,open season
+153,2023.0,A Guilty Conscience,BsqYkGb50Sg,48437.0,80.0,0.0,7.2,2144.0,a guilty conscience,14911562.0,a guilty conscience
+154,2023.0,Epic Tails,BH0rkCQjTfI,940621.0,909.0,86.0,,,epic tails,14854710.0,epic tails
+155,2023.0,Tokyo Revengers 2: Bloody Halloween - Decisive Battle,o3SOAPdVtfA,26004.0,124.0,25.0,6.2,385.0,tokyo revengers 2 bloody halloween  decisive battle,14584970.0,tokyo revengers 2 bloody halloween  decisive battle
+156,2023.0,Dr. Cheon and Lost Talisman,6NuQArwFhlA,199457.0,1392.0,74.0,5.9,1117.0,dr cheon and lost talisman,14574445.0,dr cheon and lost talisman
+157,2023.0,Sisu,2NnPzpuU5ao,8651287.0,108107.0,7771.0,,,sisu,14281199.0,sisu
+158,2023.0,Rehragout-Rendezvous,sx0oIVPKGhU,4914135.0,11129.0,402.0,6.4,1100.0,rehragoutrendezvous,14127069.0,rehragoutrendezvous
+159,2023.0,Ocho apellidos marroquís,5FLMMzpmunI,2550316.0,2429.0,1242.0,,,ocho apellidos marroquís,13999590.0,ocho apellidos marroquís
+160,2023.0,Jeanne du Barry,EEvZS2cXy7o,478782.0,3156.0,0.0,6.7,14754.0,jeanne du barry,13818536.0,jeanne du barry
+161,2023.0,His Only Son,E-qP5puRv1Q,83660.0,462.0,96.0,5.9,2785.0,his only son,13817186.0,his only son
+162,2023.0,The Point Men,MCjFhsp6gO4,479506.0,2963.0,137.0,6.0,1859.0,the point men,13433834.0,the point men
+163,,,,,,,,,,,nan
+164,2023.0,Bottoms,vH5NAahf76s,4140808.0,54996.0,2310.0,6.7,52095.0,bottoms,12966048.0,bottoms
+165,2023.0,Championext,kBhjIruQ5SM,293966.0,1284.0,101.0,6.1,1231.0,championext,12877645.0,championext
+166,2023.0,Love Again,CQDXtD2HJAs,15179003.0,61975.0,2943.0,5.9,17331.0,love again,12696584.0,love again
+167,2023.0,Love Again,CQDXtD2HJAs,15179003.0,61975.0,2943.0,4.3,19.0,love again,12696584.0,love again
+168,2023.0,Three heroes and the Navel of the Earth,2bX0JZwv7fc,46861.0,193.0,0.0,5.0,257.0,three heroes and the navel of the earth,12597251.0,three heroes and the navel of the earth
+169,2023.0,Dream Scenario,q3x9iUL-74w,9778894.0,89828.0,4796.0,6.8,84587.0,dream scenario,12451752.0,dream scenario
+170,2023.0,The Shift,Tl7rtMiOrvY,1071770.0,9296.0,1564.0,5.5,5813.0,the shift,12238643.0,the shift
+171,2023.0,Salaar,4GPvYMKtrtI,53220076.0,1470654.0,71302.0,6.6,75069.0,salaar,11958548.0,salaar
+172,2023.0,Beau Is Afraid,PuiWDn976Ek,10836925.0,149525.0,9324.0,6.6,71391.0,beau is afraid,11955354.0,beau is afraid
+173,2023.0,After Death,wMMAnO67RPw,395739.0,4428.0,600.0,6.3,1902.0,after death,11794504.0,after death
+174,2023.0,Tiger 3,vEjTUDjjU6A,82795763.0,2258100.0,172465.0,5.7,55084.0,tiger 3,11713932.0,tiger 3
+175,2023.0,Face Off 6: The Ticket of Destiny,L-XhraxUsAs,176392.0,394.0,29.0,6.4,310.0,face off 6 the ticket of destiny,11538081.0,face off 6 the ticket of destiny
+176,2023.0,Jungle Bunch: Operation Meltdown,uQjLlRR8xVE,29039.0,199.0,16.0,5.6,383.0,jungle bunch operation meltdown,11320037.0,jungle bunch operation meltdown
+177,2023.0,Silent Night,yBnTqn0lBDA,16353887.0,70376.0,5837.0,5.3,25402.0,silent night,11067228.0,silent night
+178,2023.0,What's Love Got to Do with It?,0LqOp2MNwao,2704836.0,20102.0,1106.0,,,whats love got to do with it,11065050.0,whats love got to do with it
+179,2023.0,Sleep,XkSZRcbjkWA,302603.0,831.0,34.0,6.6,5998.0,sleep,10967729.0,sleep
+180,2023.0,Samurai Beyond Admiration Record to the World's Best,sWDze_oS_RY,59161.0,466.0,32.0,,,samurai beyond admiration record to the worlds best,10876188.0,samurai beyond admiration record to the worlds best
+181,2023.0,Honey Sweet,mNzPrb1N8SU,27147.0,115.0,7.0,6.4,328.0,honey sweet,10765835.0,honey sweet
+182,2023.0,The Machine,AwDKLEaJxMk,2913806.0,28016.0,1759.0,5.7,17240.0,the machine,10664328.0,the machine
+183,2023.0,After Everything,MPB5CzX-WC0,2990739.0,17687.0,664.0,4.7,10223.0,after everything,10644463.0,after everything
+184,2023.0,The Nightmare Before Christmas 30th Anniversary Re-Release,MMCMm0VMKUE,2543.0,14.0,2.0,,,the nightmare before christmas 30th anniversary rerelease,10431631.0,the nightmare before christmas 30th anniversary rerelease
+185,2023.0,The Crime Is Mine,PoTRUL9wheE,37588.0,252.0,20.0,6.5,6297.0,the crime is mine,10370863.0,the crime is mine
+186,2023.0,Freelance,BrqWlOzm2Iw,4350739.0,11175.0,436.0,5.5,24883.0,freelance,10212160.0,freelance
+187,2023.0,Les Segpa au ski,o6XVuWUWE14,314486.0,1908.0,316.0,3.9,191.0,les segpa au ski,10203901.0,les segpa au ski
+188,2023.0,Sun and Concrete,YseO5USMSLA,26355.0,123.0,4.0,7.4,5375.0,sun and concrete,10119958.0,sun and concrete
+189,2023.0,The Peasants,O8nME5pUHPo,354453.0,4915.0,448.0,7.6,8010.0,the peasants,10006057.0,the peasants
+190,2023.0,The Great Escaper,JEvYEPNxHzo,1378474.0,2148.0,221.0,7.0,8291.0,the great escaper,9818521.0,the great escaper
+191,2023.0,The Lord of the Rings: The Return of the King 2023 Re-release (20th Anniversary),Y1zTjX85vD0,584.0,24.0,0.0,,,the lord of the rings the return of the king 2023 rerelease 20th anniversary,9736432.0,the lord of the rings the return of the king 2023 rerelease 20th anniversary
+192,2023.0,Talk to Her Undated France Release,5fb2puij0Ik,264922585.0,1469444.0,6688.0,,,talk to her undated france release,9550733.0,talk to her undated france release
+193,2023.0,Rafadan Tayfa 4: Hayrimatör,A9JZQU8guTM,4733761.0,7983.0,1.0,,,rafadan tayfa 4 hayrimatör,9546067.0,rafadan tayfa 4 hayrimatör
+194,2023.0,The Braid,8AsbS9KGk4I,64154.0,167.0,27.0,7.2,1843.0,the braid,9408857.0,the braid
+195,2023.0,Kandahar,WHs6z9RPGtA,11728347.0,27134.0,1331.0,6.1,40860.0,kandahar,9387311.0,kandahar
+196,2023.0,House Party,VO_xuS4FDHs,808487.0,12636.0,1336.0,4.4,4670.0,house party,9285747.0,house party
+197,2023.0,All Your Faces,h3XKroA-sTw,47646.0,119.0,7.0,7.5,4298.0,all your faces,9056053.0,all your faces
+198,2023.0,The Animal Kingdom,qGvUkiUM7Nc,293679.0,444.0,30.0,6.7,10501.0,the animal kingdom,8938787.0,the animal kingdom
+199,2023.0,The Wandering Earth II,Yf3VreXwVpI,1564457.0,9275.0,1134.0,6.7,15345.0,the wandering earth ii,8854786.0,the wandering earth ii
+200,2023.0,Cats in the Museum,YyUIBk_YA2o,17910.0,53.0,10.0,4.7,599.0,cats in the museum,8772739.0,cats in the museum
+201,2023.0,Father & Soldier,PbpCntDgq8I,59795.0,640.0,38.0,,,father  soldier,8598322.0,father  soldier
+202,2023.0,PreCure All Stars F,p1Mwt0G80WE,65151.0,774.0,134.0,,,precure all stars f,8519569.0,precure all stars f
+203,2023.0,Dream,bIjRJjpeg-c,1198953.0,23394.0,373.0,6.5,3771.0,dream,8317251.0,dream
+204,2023.0,Vacaciones de verano,3hc7SSco7X8,66502.0,350.0,23.0,5.0,803.0,vacaciones de verano,8209854.0,vacaciones de verano
+205,2023.0,On the Wandering Paths,nPLOSNIKEc0,51783.0,68.0,5.0,6.6,1480.0,on the wandering paths,8186678.0,on the wandering paths
+206,2023.0,On the Wandering Paths,nPLOSNIKEc0,51783.0,68.0,5.0,,,on the wandering paths,8186678.0,on the wandering paths
+207,2023.0,Weekend Rebels,dG9jG2YaL4Y,4634.0,26.0,0.0,7.1,1656.0,weekend rebels,8184539.0,weekend rebels
+208,2024.0,Dune: Part Two,Way9Dexny3w,29938141.0,432907.0,19703.0,8.5,624671.0,dune part two,705258731.0,dune part two
+209,2024.0,Godzilla x Kong: The New Empire,lV1OOlGwExM,37090871.0,812326.0,54985.0,6.0,121564.0,godzilla x kong the new empire,524307009.0,godzilla x kong the new empire
+210,2024.0,Kung Fu Panda 4,_inKs4eeHiI,36415809.0,666348.0,0.0,6.3,68113.0,kung fu panda 4,505432930.0,kung fu panda 4
+211,2024.0,Ghostbusters: Frozen Empire,HpOBXh02rVc,5616918.0,93337.0,7407.0,6.1,93475.0,ghostbusters frozen empire,189004612.0,ghostbusters frozen empire
+212,2024.0,Bob Marley: One Love,ajw425Kuvtw,11963438.0,102313.0,4223.0,6.2,34567.0,bob marley one love,177193170.0,bob marley one love
+213,2024.0,The Beekeeper,SzINZZ6iqxY,18887438.0,88420.0,6967.0,6.3,156575.0,the beekeeper,152720535.0,the beekeeper
+214,2024.0,Mean Girls,fFtdbEgnUOk,13862422.0,80234.0,9529.0,5.5,37016.0,mean girls,104404248.0,mean girls
+215,2024.0,Madame Web,s_76M4c4LTo,30877409.0,162454.0,31325.0,4.0,100803.0,madame web,100298817.0,madame web
+216,2024.0,Argylle,7mgu9mNZ8Hk,30365083.0,89410.0,6222.0,5.6,92537.0,argylle,96173090.0,argylle
+217,2024.0,Exhuma,H2O193v3jkM,932136.0,6462.0,464.0,6.9,23378.0,exhuma,95167876.0,exhuma
+218,2024.0,Civil War,U7_0-Su-pus,926514.0,5142.0,1218.0,7.0,236994.0,civil war,93111036.0,civil war
+219,2024.0,Civil War,U7_0-Su-pus,926514.0,5142.0,1218.0,,,civil war,93111036.0,civil war
+220,2024.0,Haikyuu!! The Dumpster Battle,H51vnZt1ctU,432423.0,6599.0,174.0,,,haikyuu the dumpster battle,64186637.0,haikyuu the dumpster battle
+221,2024.0,Detective Conan: The Million-Dollar Pentagram,53bmmVls3Fg,147040.0,1539.0,121.0,6.7,1477.0,detective conan the milliondollar pentagram,54704723.0,detective conan the milliondollar pentagram
+222,2024.0,Night Swim,pcSNqteCEtE,14982586.0,40873.0,2999.0,4.7,27314.0,night swim,54075969.0,night swim
+223,2024.0,The First Omen,lmN1Op8ygno,9966409.0,33124.0,2792.0,6.5,64174.0,the first omen,50581732.0,the first omen
+224,2024.0,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,SXcCdQdcBtw,1475809.0,16540.0,802.0,7.1,8517.0,demon slayer kimetsu no yaiba  to the hashira training,44350181.0,demon slayer kimetsu no yaiba  to the hashira training
+225,2024.0,Imaginary,8XoNfrgrAGM,16334128.0,96286.0,3884.0,4.7,17248.0,imaginary,39123048.0,imaginary
+226,2024.0,Challengers,VobTTbg-te0,9512121.0,23462.0,1938.0,7.0,154643.0,challengers,34641023.0,challengers
+227,2024.0,Arthur the King,wjDJNEPghNY,11849276.0,26737.0,1317.0,7.0,34258.0,arthur the king,33018144.0,arthur the king
+228,2024.0,Monkey Man,g8zxiB5Qhsc,22595743.0,356724.0,19132.0,6.8,91555.0,monkey man,32940676.0,monkey man
+229,2024.0,Abigail,3PsP8MFH8p0,6609217.0,65005.0,5228.0,6.6,96880.0,abigail,30920915.0,abigail
+230,2024.0,Mobile Suit Gundam Seed Freedom,Gsj6ToFTGgc,901145.0,10877.0,1471.0,6.6,953.0,mobile suit gundam seed freedom,30149103.0,mobile suit gundam seed freedom
+231,2024.0,The Roundup: Punishment,0phxk3pV6hI,277601.0,1246.0,39.0,6.6,5273.0,the roundup punishment,29793438.0,the roundup punishment
+232,2024.0,A Strange House,r4yPoXuQBg0,21163.0,141.0,17.0,5.5,321.0,a strange house,27371919.0,a strange house
+233,2024.0,The Master and Margarita,Iy8dEW_Jjak,25418.0,274.0,53.0,,,the master and margarita,26152311.0,the master and margarita
+234,2024.0,Back to Black,rYzIOBwyhIU,13681506.0,30356.0,3113.0,6.3,26638.0,back to black,25445673.0,back to black
+235,2024.0,Doraemon the Movie: Nobita's Earth Symphony,fAfFd2jRT0U,209451.0,1563.0,0.0,6.6,1495.0,doraemon the movie nobitas earth symphony,25139030.0,doraemon the movie nobitas earth symphony
+236,2024.0,Chantal in Fairyland,p_-ohv-2Z4M,12960.0,75.0,1.0,4.6,2644.0,chantal in fairyland,24074319.0,chantal in fairyland
+237,2024.0,Wicked Little Letters,SeTeCWbF8KY,682483.0,2444.0,614.0,,,wicked little letters,23761961.0,wicked little letters
+238,2024.0,Immaculate,MACU-2pqVOI,1402474.0,7040.0,558.0,5.8,52728.0,immaculate,22314913.0,immaculate
+239,2024.0,Mai,ckf4lDFyL8w,161220.0,778.0,142.0,6.8,1516.0,mai,21714524.0,mai
+240,2024.0,Autumn and the Black Jaguar,Y7wWZsTRr4I,353023.0,1140.0,46.0,5.6,1000.0,autumn and the black jaguar,21429423.0,autumn and the black jaguar
+241,2024.0,Lyod 3,u49qkPDHEWM,3451.0,65.0,67.0,6.0,303.0,lyod 3,20615744.0,lyod 3
+242,2024.0,Cabrini,02S9IcBPefw,1173502.0,4692.0,432.0,7.3,8735.0,cabrini,20232172.0,cabrini
+243,2024.0,Ordinary Angels,R1vn8kPgCYA,7725785.0,26687.0,808.0,7.4,15784.0,ordinary angels,19514171.0,ordinary angels
+244,2024.0,Golden Kamuy,N6DmjhcSt8Q,872809.0,11034.0,812.0,6.3,2571.0,golden kamuy,19077748.0,golden kamuy
+245,2024.0,The Fall Guy,j7jPnwVGdZ8,25515666.0,183775.0,11564.0,6.8,220620.0,the fall guy,18864303.0,the fall guy
+246,2024.0,The Ministry of Ungentlemanly Warfare,zvwDen1Wrx8,20328451.0,131047.0,7547.0,6.8,134910.0,the ministry of ungentlemanly warfare,17580584.0,the ministry of ungentlemanly warfare
+247,2024.0,Cocorico,xZiBL1ARsgA,1578615.0,4192.0,0.0,5.8,3230.0,cocorico,17294530.0,cocorico
+248,2024.0,Kleks Academy,7xudadjSAbk,247905.0,881.0,126.0,,,kleks academy,15348026.0,kleks academy
+249,2024.0,The Chosen: S4 Episodes 1-3,sepQGPzT7Kw,923354.0,17262.0,1206.0,,,the chosen s4 episodes 13,14799620.0,the chosen s4 episodes 13
+250,2024.0,Article 370,Nwce9WwkcMg,826028.0,8824.0,541.0,7.8,24661.0,article 370,13222021.0,article 370
+251,2024.0,Citizen of a Kind,euAZH6rOXNM,91520.0,389.0,11.0,6.7,827.0,citizen of a kind,12494455.0,citizen of a kind
+252,2024.0,Maison de retraite 2,oVwlsNcJpu4,382450.0,1735.0,228.0,,,maison de retraite 2,11196943.0,maison de retraite 2
+253,2024.0,Eine Million Minuten,qqK2z-UeUxk,1505442.0,1547.0,252.0,,,eine million minuten,11077140.0,eine million minuten
+254,2024.0,Late Night with the Devil,cvt-mauboTc,2747296.0,28337.0,1452.0,,,late night with the devil,11067955.0,late night with the devil
+255,2024.0,Unsung Hero,UHyrHRNX9Rk,516922.0,4289.0,228.0,7.0,5012.0,unsung hero,11013890.0,unsung hero
+256,2024.0,Letuchiy korabl,rSTEK0WUgNw,1188084.0,12514.0,2298.0,3.8,298.0,letuchiy korabl,10834343.0,letuchiy korabl
+257,2024.0,Alienoid: The Return to the Future,uiutkWVjXKI,105354.0,450.0,11.0,6.5,2611.0,alienoid the return to the future,10693858.0,alienoid the return to the future
+258,2024.0,Cat and Dog,u22-tVHqfXQ,176934.0,400.0,51.0,5.2,1092.0,cat and dog,10627288.0,cat and dog
+259,2024.0,Lisa Frankenstein,POOeA3zCuUY,7624292.0,24266.0,1808.0,6.1,28079.0,lisa frankenstein,9927714.0,lisa frankenstein
+260,2024.0,The Chosen: S4 Episodes 4-6,Bn_5uH5kUAU,776086.0,15944.0,1074.0,,,the chosen s4 episodes 46,9482744.0,the chosen s4 episodes 46
+261,2024.0,Love Lies Bleeding,BF_J3-DmiS0,6793807.0,52061.0,3527.0,6.6,56927.0,love lies bleeding,9375350.0,love lies bleeding
+262,2024.0,Lohusa,tuNhZQFTAR4,6617112.0,61876.0,592.0,5.3,2852.0,lohusa,8702629.0,lohusa
+263,2024.0,Onegin,R50tVWpxn7g,84339.0,522.0,17.0,7.0,1206.0,onegin,8481968.0,onegin
+264,2024.0,The Birth of Korea,oOOdt5DwIpI,108507.0,1374.0,65.0,4.9,130.0,the birth of korea,8050883.0,the birth of korea
+265,2024.0,The Chosen: S4 Episodes 7-8,3NgjDVItTVQ,827285.0,13244.0,939.0,,,the chosen s4 episodes 78,7765700.0,the chosen s4 episodes 78
+266,2024.0,Kolpaçino 4 4'lük,72wlffFUamk,3143288.0,18725.0,3134.0,2.8,2109.0,kolpaçino 4 4lük,7445372.0,kolpaçino 4 4lük
+267,2024.0,Yolo,FDLphyA2wDQ,349589.0,2763.0,234.0,6.9,3724.0,yolo,7184072.0,yolo
+268,2024.0,Un mondo a parte,P5hgM2OcQh0,441998.0,1420.0,183.0,6.5,1207.0,un mondo a parte,7072018.0,un mondo a parte
+269,2024.0,Drive-Away Dolls,Oy0RYiQRWUk,5524584.0,9303.0,729.0,5.4,23322.0,driveaway dolls,6826057.0,driveaway dolls
+270,2024.0,SUGA: Agust D Tour 'D-DAY' the Movie,DlHDpgi1Rdc,824608.0,139645.0,3637.0,8.1,1193.0,suga agust d tour dday the movie,6731363.0,suga agust d tour dday the movie
+271,2024.0,Troll Factory,333Ju54BiRM,153703.0,712.0,25.0,5.8,469.0,troll factory,6676327.0,troll factory
+272,,,,,,,,,,,nan
+273,2024.0,I.S.S.,i48f4AvS-Pk,669311.0,4076.0,853.0,,,iss,6605079.0,iss
+274,2024.0,Land of Bad,yTFazxfrXVw,3866666.0,27975.0,2724.0,6.6,51282.0,land of bad,6569472.0,land of bad
+275,2024.0,Baghead,XOsZq_5s-ak,2320934.0,19000.0,1165.0,,,baghead,6422416.0,baghead
+276,2024.0,The Book of Clarence,ntNS-ANoMyM,11062732.0,18194.0,3411.0,,,the book of clarence,6205230.0,the book of clarence
+277,2024.0,Ducobu passe au vert!,XiwtYHHQM68,287074.0,2511.0,325.0,4.0,131.0,ducobu passe au vert,6139956.0,ducobu passe au vert
+278,2024.0,Someone Like You,wie1GDo7jbg,3591984.0,26231.0,955.0,5.8,2163.0,someone like you,5937306.0,someone like you
+279,2024.0,Someone Like You,wie1GDo7jbg,3591984.0,26231.0,955.0,,,someone like you,5937306.0,someone like you
+280,2024.0,Air,Euy4Yu6B3nU,14459115.0,44277.0,2796.0,,,air,90060106.0,air
+281,2024.0,Air,Euy4Yu6B3nU,14459115.0,44277.0,2796.0,,,air,5468936.0,air
+282,2024.0,Matching,Nmshseb5IHw,14780.0,172.0,7.0,,,matching,5348492.0,matching
+283,2024.0,Force of Nature: The Dry 2,xhP05eOYbTE,730482.0,1409.0,130.0,5.8,7075.0,force of nature the dry 2,5346224.0,force of nature the dry 2
+284,2024.0,Blue Lock: Episode Nagi,6NCsj0anAt8,1067587.0,20061.0,493.0,6.6,2507.0,blue lock episode nagi,5318897.0,blue lock episode nagi
+285,2024.0,The Goat Life,xjQKvhEi7NI,2968385.0,32172.0,2080.0,7.1,47390.0,the goat life,5115797.0,the goat life
+286,2024.0,Table for Six 2,cOBaLhSVWjg,9894.0,32.0,0.0,5.4,323.0,table for six 2,4871447.0,table for six 2
+287,2024.0,Anweshippin Kandethum,FQZ5_AtbO2o,4322713.0,46585.0,2105.0,7.4,10262.0,anweshippin kandethum,4459155.0,anweshippin kandethum
+288,2024.0,Sami Swoi. Poczatek,XSMc2Gm0hU8,2367743.0,2149.0,0.0,,,sami swoi poczatek,4433525.0,sami swoi poczatek
+289,2024.0,El Roomie,Eopf23HlbUw,2291480.0,6692.0,140.0,5.9,307.0,el roomie,4418253.0,el roomie
+290,2024.0,No Way Up,oLvrlajijhk,1211975.0,5741.0,791.0,4.6,10509.0,no way up,4412364.0,no way up
+291,2024.0,Crew,LH6sHR86t-M,1407236.0,9933.0,330.0,5.8,37039.0,crew,4250981.0,crew
+292,2024.0,I soliti idioti 3: Il ritorno,Dwh0HM2TaKI,412408.0,2266.0,290.0,4.8,325.0,i soliti idioti 3 il ritorno,4174340.0,i soliti idioti 3 il ritorno
+293,2024.0,La familia Benetón,F0k6T_fuZcw,61042.0,212.0,23.0,4.4,398.0,la familia benetón,4111890.0,la familia benetón
+294,2024.0,Dune 2024 Re-release,CzVHWNosS2o,11181481.0,60873.0,3859.0,,,dune 2024 rerelease,3995610.0,dune 2024 rerelease
+295,2024.0,Fighter,6amIq_mP4xM,54092978.0,658429.0,56682.0,6.2,52084.0,fighter,3800771.0,fighter
+296,2024.0,Manjummel Boys,id848Ww1YLo,14838661.0,271767.0,5150.0,8.2,27271.0,manjummel boys,3784106.0,manjummel boys
+297,2024.0,Gap Lai Chi Bau,Gggw9jwr1h4,440059.0,1295.0,194.0,5.7,44.0,gap lai chi bau,3749297.0,gap lai chi bau
+298,2024.0,Daaaaaali!,tKmpCVMxrYc,91601.0,1483.0,144.0,,,daaaaaali,3696469.0,daaaaaali
+299,2024.0,Onmyoji Zero,Zu73ImplEy4,38902.0,496.0,29.0,,,onmyoji zero,3566021.0,onmyoji zero
+300,2024.0,Breaking Point,7jGoDAPP970,3773.0,13.0,0.0,,,breaking point,3532131.0,breaking point
+301,2024.0,The Moon Thieves,kSQcnQ1iiRI,12229.0,50.0,5.0,6.1,254.0,the moon thieves,3522654.0,the moon thieves
+302,2024.0,Meet the Leroys,c9oxOk_vybA,6232.0,17.0,0.0,6.4,1149.0,meet the leroys,3513572.0,meet the leroys
+303,2024.0,3391 Kilometres,4K_F7k3Plos,1550602.0,17059.0,881.0,4.2,1127.0,3391 kilometres,3506051.0,3391 kilometres
+304,2024.0,Peppa's Cinema Party,fTeykbJ6n0g,869704.0,1813.0,0.0,5.0,155.0,peppas cinema party,3473576.0,peppas cinema party
+305,2024.0,Pare parecchio Parigi,iaYpVF1Dtq4,736845.0,918.0,118.0,5.3,365.0,pare parecchio parigi,3445925.0,pare parecchio parigi
+306,2024.0,Shrek 2 2024 Re-release,8gH2TJxUHog,119.0,1.0,0.0,,,shrek 2 2024 rerelease,3427910.0,shrek 2 2024 rerelease
+307,2024.0,Konets Slavy,bP0hKiG_GAE,838127.0,4764.0,529.0,,,konets slavy,3387736.0,konets slavy
+308,2024.0,Guest from the Future,o0Ukp5bwkYw,6579.0,105.0,0.0,6.0,1193.0,guest from the future,3387564.0,guest from the future
+309,2024.0,Lovesick Ellie,rR_vKAhWCDQ,51160.0,446.0,28.0,7.0,70.0,lovesick ellie,3365139.0,lovesick ellie
+310,2024.0,Aavesham,OsMqr3556F8,112879.0,1186.0,55.0,7.8,27907.0,aavesham,3351953.0,aavesham
+311,2024.0,Noah's Ark,WytseuaeFFg,200397.0,667.0,92.0,4.3,662.0,noahs ark,3273615.0,noahs ark
+312,,,,,,,,,,,nan
+313,2024.0,Face Off 7: One Wish,rs0q0dG2dC8,84519.0,105.0,6.0,7.3,349.0,face off 7 one wish,3201885.0,face off 7 one wish
+314,2024.0,Columbia 100th Anniversary Series Columbia 100th Anniversary Series,5UKiv3IzZBQ,12695.0,449.0,33.0,,,columbia 100th anniversary series columbia 100th anniversary series,3197854.0,columbia 100th anniversary series columbia 100th anniversary series
+315,2024.0,Lucky Winners,s1GwDtln47Y,12836.0,31.0,1.0,6.2,1434.0,lucky winners,3184504.0,lucky winners
+316,2024.0,2024 Oscar Nominated Short Films: Documentary,jAMp886OAwY,6649.0,13.0,1.0,7.7,21.0,2024 oscar nominated short films documentary,3162293.0,2024 oscar nominated short films documentary
+317,2024.0,Boléro,Iodered7IbQ,26602.0,120.0,8.0,6.6,786.0,boléro,3117851.0,boléro
+318,2024.0,Budda. Dzieciak '98,tu_k3vwT5Fg,15204.0,235.0,37.0,4.3,190.0,budda dzieciak 98,3085668.0,budda dzieciak 98
+319,2024.0,Verliefd op Bali,sjc4AaiWSUo,79630.0,151.0,17.0,,,verliefd op bali,3069304.0,verliefd op bali
+320,2024.0,Maria Montessori,yUKXFJ-WJCQ,158047.0,3377.0,0.0,,,maria montessori,3021927.0,maria montessori
+321,2024.0,The Good Teacher,5wa67QkhH1s,23394.0,77.0,0.0,6.6,1895.0,the good teacher,3014200.0,the good teacher
+322,2024.0,Kensuke's Kingdom,l920NF39W0A,66463.0,1006.0,88.0,,,kensukes kingdom,2919215.0,kensukes kingdom
+323,2024.0,We 12,lbS3UaOgwbQ,13436.0,38.0,2.0,,,we 12,2864154.0,we 12
+324,2024.0,The Long Game,Rh1f8G_5_uY,674455.0,3825.0,182.0,7.3,59.0,the long game,2856236.0,the long game
+325,2024.0,Too Old for Fairy Tales 2,Hoc3_-IpmG8,14596.0,25.0,0.0,4.8,402.0,too old for fairy tales 2,2849114.0,too old for fairy tales 2
+326,2024.0,Silent Love,4O8TQaChU8Y,179892.0,3723.0,129.0,6.3,369.0,silent love,2739320.0,silent love
+327,2024.0,Rob N Roll,TvDG4Gef0zQ,30132.0,70.0,3.0,6.1,1516.0,rob n roll,2739036.0,rob n roll
+328,2024.0,Noche De Bodas,g4BLH8sHIFo,4127675.0,903.0,115.0,4.6,227.0,noche de bodas,2734739.0,noche de bodas
+329,2024.0,Detective Conan vs. Kid the Phantom Thief,DHJrkN_GeX8,36191.0,225.0,24.0,6.1,162.0,detective conan vs kid the phantom thief,2734018.0,detective conan vs kid the phantom thief
+330,2024.0,All the Long Nights,V020tyBC1JU,12969.0,179.0,8.0,7.1,748.0,all the long nights,2689624.0,all the long nights
+331,2024.0,Dog Days,GE7KMnztFzs,27777.0,294.0,17.0,6.7,314.0,dog days,2658318.0,dog days
+332,2024.0,Bade Miyan Chote Miyan,IGzLHNPO4QI,55124413.0,492200.0,54845.0,3.7,38982.0,bade miyan chote miyan,2571834.0,bade miyan chote miyan
+333,2024.0,Operation Portugal 2 - La vie de chateau,_ritbMqwwf8,1344230.0,1003.0,68.0,5.0,125.0,operation portugal 2  la vie de chateau,2569580.0,operation portugal 2  la vie de chateau
+334,2024.0,Tarot,bvDArsKoTOE,16860963.0,81599.0,4643.0,4.8,31524.0,tarot,2545000.0,tarot
+335,2024.0,Queen Rock Montreal,58MAJ_gvIbc,114111.0,1727.0,128.0,8.5,788.0,queen rock montreal,2537304.0,queen rock montreal
+336,2024.0,National Theatre Live: Vanya,9cp3Sm2kiqE,382893.0,2786.0,98.0,8.6,990.0,national theatre live vanya,2504285.0,national theatre live vanya
+337,2024.0,The American Society of Magical Negroes,gizIbhk5Eu4,7613278.0,12016.0,21945.0,3.7,12005.0,the american society of magical negroes,2496248.0,the american society of magical negroes
+338,2024.0,Coppers,4Oqc5Ub2HPk,1431.0,0.0,0.0,5.1,400.0,coppers,2462266.0,coppers
+339,2024.0,50 km/h,lssYXyWA0Xs,653699.0,876.0,63.0,6.1,586.0,50 kmh,2448552.0,50 kmh
+340,2024.0,Kral Sakir: Devler Uyandi,-TSlIapWVkw,374995.0,0.0,75.0,5.4,66.0,kral sakir devler uyandi,2440291.0,kral sakir devler uyandi
+341,2024.0,Star Wars: Episode I - The Phantom Menace 2024 Re-release,W4b2gRUiyNs,63142.0,821.0,262.0,,,star wars episode i  the phantom menace 2024 rerelease,2430000.0,star wars episode i  the phantom menace 2024 rerelease
+342,2024.0,The Green Deal,7JLKLA0NP_s,2389.0,6.0,0.0,6.2,316.0,the green deal,2365956.0,the green deal
+343,2024.0,14 jours pour aller mieux,0ZF3a7a7VdA,404487.0,1544.0,177.0,,,14 jours pour aller mieux,2357682.0,14 jours pour aller mieux
+344,2024.0,Boy Kills World,tztCsUyiQv8,2417515.0,34229.0,1967.0,,,boy kills world,2353527.0,boy kills world
+345,2024.0,Alien 2024 Re-release,OzY2r2JXsDM,12683041.0,276658.0,26847.0,,,alien 2024 rerelease,2345201.0,alien 2024 rerelease
+346,2024.0,Tati Part Time,5Vj8Q1MPWBA,1648198.0,3156.0,232.0,6.2,1470.0,tati part time,2343561.0,tati part time
+347,2024.0,Premalu,rR_2ti4l3nM,7597751.0,138811.0,1901.0,7.8,19449.0,premalu,2342985.0,premalu
+348,2024.0,White Bird,aTTPea6gHh4,682868.0,3619.0,324.0,,,white bird,2326221.0,white bird
+349,2024.0,Varshangalkku Shesham,50GJ7D_00NA,6838037.0,110814.0,3345.0,6.6,4158.0,varshangalkku shesham,2322650.0,varshangalkku shesham
+350,2024.0,Bonnard: Pierre & Marthe,tePdkUusu8c,47991.0,129.0,0.0,,,bonnard pierre  marthe,2311172.0,bonnard pierre  marthe
+351,2024.0,De Terugreis,mqOmmQuTroU,516600.0,497.0,39.0,,,de terugreis,2293865.0,de terugreis
+352,2024.0,Atatürk 1881 - 1919 Film 2 Release,xoOzqBkDVH4,737978.0,8528.0,833.0,,,atatürk 1881  1919 film 2 release,2265241.0,atatürk 1881  1919 film 2 release
+353,2024.0,Picnic,T1SyJeEgk2o,12757.0,233.0,38.0,,,picnic,2256981.0,picnic
+354,2024.0,Tillu Square,JrdixTnMl8E,7658282.0,149218.0,1171.0,6.6,3406.0,tillu square,2250679.0,tillu square
+355,2024.0,It's Raining Men,Qqq0ImcFtwE,11130.0,31.0,1.0,,,its raining men,2211183.0,its raining men
+356,2024.0,Don't Lose Your Head!,OoZEcUKZDtQ,74983.0,1005.0,67.0,,,dont lose your head,2113320.0,dont lose your head
+357,2024.0,Todas menos tú,x3zvl_NmoGY,2519.0,11.0,0.0,,,todas menos tú,2110306.0,todas menos tú
+358,2024.0,The Ark and the Darkness,B_ar0CZQSec,615390.0,0.0,0.0,5.3,501.0,the ark and the darkness,2097560.0,the ark and the darkness
+359,2024.0,Race for Glory: Audi vs. Lancia,UzRI4vC05GU,226345.0,2896.0,136.0,5.8,4731.0,race for glory audi vs lancia,2097277.0,race for glory audi vs lancia
+360,2024.0,Aristokratka ve varu,zNBGcjzKp8g,163843.0,898.0,22.0,5.1,58.0,aristokratka ve varu,2035808.0,aristokratka ve varu
+361,2024.0,Et plus si affinités,qaCtl6Mwqgw,1313199.0,250.0,31.0,,,et plus si affinités,2016318.0,et plus si affinités
+362,2024.0,Out of Darkness,7w37CCrS2sw,310563.0,1435.0,350.0,,,out of darkness,1987281.0,out of darkness
+363,2024.0,Here & There,pr_nVsfoUm8,911420.0,8708.0,304.0,5.3,266.0,here  there,1913125.0,here  there
+364,2024.0,Nedelja,yB9fk8GVCLw,7522.0,42.0,0.0,7.2,1879.0,nedelja,1905017.0,nedelja
+365,2024.0,Dragonkeeper,cAmgRYAEEZU,200662.0,772.0,0.0,5.7,1662.0,dragonkeeper,1902254.0,dragonkeeper
+366,2024.0,Salle des profs,J_I-VM6OfGI,63428.0,110.0,0.0,,,salle des profs,1855403.0,salle des profs
+367,2024.0,YA - medved,wtirDl8__mE,3548.0,16.0,0.0,5.0,61.0,ya  medved,1842294.0,ya  medved
+368,2024.0,Un altro Ferragosto,THXqUd-ndNQ,747262.0,457.0,82.0,5.7,617.0,un altro ferragosto,1816797.0,un altro ferragosto
+369,2024.0,Love You as the World Ends: Episode #4.5,AKB08raoLXQ,172.0,3.0,1.0,,,love you as the world ends episode 45,1814466.0,love you as the world ends episode 45
+370,2024.0,Komandir,xXFoECLJPVA,138384.0,1560.0,96.0,6.4,523.0,komandir,1808588.0,komandir
+371,2024.0,Valle de sombras,vONjmVbZzGY,177427.0,376.0,61.0,,,valle de sombras,1805813.0,valle de sombras
+372,2024.0,Adam & Eve,KCVEPfPWYgo,3115.0,13.0,0.0,5.1,94.0,adam  eve,1752038.0,adam  eve
+373,2024.0,El correo,D-230lfdqps,2769213.0,2990.0,101.0,,,el correo,1751343.0,el correo
+374,2024.0,Kardes Takimi,VqfDE1QGzsI,435601.0,2652.0,180.0,3.5,555.0,kardes takimi,1748615.0,kardes takimi
+375,2024.0,18×2 Beyond Youthful Days,PSuYA5JQV-Y,49750.0,269.0,32.0,7.3,1881.0,182 beyond youthful days,1740791.0,182 beyond youthful days
+376,2024.0,La ferme des Bertrand,GjZUfugDciU,1602.0,11.0,0.0,,,la ferme des bertrand,1719910.0,la ferme des bertrand
+377,2024.0,Teri Baaton Mein Aisa Uljha Jiya,w_N6d4ec79c,61567457.0,437824.0,27460.0,6.2,54081.0,teri baaton mein aisa uljha jiya,1699722.0,teri baaton mein aisa uljha jiya
+378,2024.0,Dead Man,UYqWGHxlLbE,94591.0,482.0,23.0,5.1,206.0,dead man,1689878.0,dead man
+379,2024.0,Like a Prince,L_YYMaKrMAE,621.0,1.0,1.0,,,like a prince,1681549.0,like a prince
+380,2024.0,Madame de Sévigné,1kEmOuUzjCk,3819.0,19.0,0.0,,,madame de sévigné,1640410.0,madame de sévigné
+381,2024.0,I Did It My Way,hyHnMOzS4JE,61394.0,541.0,8.0,,,i did it my way,1628896.0,i did it my way
+382,2024.0,Mothers' Instinct,aLikloRQiUE,4170783.0,27891.0,1024.0,6.3,20496.0,mothers instinct,1615453.0,mothers instinct
+383,2024.0,Mothers' Instinct,aLikloRQiUE,4170783.0,27891.0,1024.0,6.4,84.0,mothers instinct,1615453.0,mothers instinct
+384,2024.0,10 Lives,Gq4SS8bZG0o,80411.0,281.0,23.0,5.9,1916.0,10 lives,1610013.0,10 lives
+385,2024.0,Menudas piezas,wdfLg-jMaNI,486121.0,773.0,54.0,5.8,599.0,menudas piezas,1586216.0,menudas piezas
+386,2024.0,A Silence,7KJClIz3aI4,36218.0,56.0,0.0,,,a silence,1562685.0,a silence
+387,2024.0,Romeo è Giulietta,h9AAEiPWAPk,4362281.0,821.0,72.0,6.4,403.0,romeo è giulietta,1555180.0,romeo è giulietta
+388,2024.0,Buzz House: The Movie,MSBs8UrKWO8,1526900.0,57641.0,1628.0,3.2,1271.0,buzz house the movie,1551436.0,buzz house the movie
+389,2024.0,Dune IMAX,vNfKuvLwfa0,9.0,0.0,0.0,,,dune imax,1550188.0,dune imax
+390,2024.0,Giants of la Mancha,RsUJhUkf-8M,4449.0,11.0,0.0,,,giants of la mancha,1536765.0,giants of la mancha
+391,2024.0,The Promised Land,age3coRbAzs,170768.0,806.0,56.0,,,the promised land,1522319.0,the promised land
+392,2024.0,Sleeping Dogs,9AFIutyHvKs,387195.0,1373.0,145.0,6.2,21560.0,sleeping dogs,1518564.0,sleeping dogs
+393,2024.0,Let's Go Karaoke!,fCuwhgofxME,19472.0,373.0,0.0,,,lets go karaoke,1510372.0,lets go karaoke
+394,2024.0,Shaitaan,A_HQdwRDRrw,2504101.0,18249.0,849.0,6.5,54405.0,shaitaan,1501788.0,shaitaan
+395,2024.0,National Theatre Live: Dear England,UkDiUifHoAc,81394.0,370.0,82.0,8.1,138.0,national theatre live dear england,1485050.0,national theatre live dear england
+396,2024.0,Off-Season,UvnrdQcYeWA,84.0,3.0,1.0,,,offseason,1481675.0,offseason
+397,2024.0,Matka v trapu,lPc01DRFwyg,172153.0,705.0,41.0,4.2,76.0,matka v trapu,1477538.0,matka v trapu
+398,2024.0,Rocky Road to Berlin,JrA6BbAMzNg,4813.0,16.0,1.0,7.2,1444.0,rocky road to berlin,1465147.0,rocky road to berlin
+399,2024.0,Firebrand,oyAK_isFwbU,1625605.0,2980.0,289.0,,,firebrand,1439516.0,firebrand
+400,2024.0,N'avoue jamais,ceTzZPkU5cI,198998.0,1006.0,58.0,5.8,527.0,navoue jamais,1437432.0,navoue jamais
+401,2024.0,Sladky zivot,bFzRosOnz9k,166791.0,850.0,26.0,,,sladky zivot,1435604.0,sladky zivot
+402,2024.0,Miller's Girl,vk2OJZHutBM,9885430.0,82310.0,5145.0,5.2,23380.0,millers girl,1430985.0,millers girl
+403,2024.0,Frères,5p03qo8KP2A,213889.0,927.0,161.0,6.3,592.0,frères,1407251.0,frères
+404,2024.0,Pozyvnoy «Passazhir»,9cDqop8XtXo,444431.0,3926.0,1094.0,4.8,230.0,pozyvnoy passazhir,1405286.0,pozyvnoy passazhir
+405,2024.0,The Mummy 2024 Re-release,STS5m_ILINM,73416.0,1209.0,179.0,,,the mummy 2024 rerelease,1404465.0,the mummy 2024 rerelease
+406,2024.0,Karaoké,4rmItfsLq5c,120606.0,271.0,0.0,5.6,152.0,karaoké,1404406.0,karaoké
+407,2024.0,Irklais per Atlanta,HbKXOm3rbIo,183628.0,6280.0,198.0,9.0,855.0,irklais per atlanta,1402306.0,irklais per atlanta
+408,2024.0,Bramayugam,55pzldrBRJM,6377253.0,186581.0,10710.0,7.8,14048.0,bramayugam,1388375.0,bramayugam
+409,2024.0,White Courage,4CUSirQW4m4,436553.0,1764.0,626.0,6.4,622.0,white courage,1373237.0,white courage
+410,2024.0,National Theatre Live: The Motive and the Cue,7OhicKyhS_k,74691.0,544.0,58.0,8.5,193.0,national theatre live the motive and the cue,1338772.0,national theatre live the motive and the cue
+411,2024.0,Escape from Germany,jzAJHIBsv94,65771.0,534.0,78.0,5.3,971.0,escape from germany,1321364.0,escape from germany
